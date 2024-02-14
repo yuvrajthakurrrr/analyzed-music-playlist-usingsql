@@ -34,6 +34,12 @@ This SQL project focuses on analyzing online music store data to help the store 
 ## SQL Queries
 
 To answer the above questions, SQL queries are written to extract relevant information from the dataset. Each query is designed to address a specific question and provide meaningful insights.
+
+## Schema- Music Store Database
+
+![Schema](https://github.com/yuvrajthakurrrr/analyzed-music-playlist-usingsql/assets/39805648/74fd977d-7308-4a68-8f8b-d3de3b07a1c0)
+
+
 ## Usage
 
 1. Ensure you have access to a SQL database management system (DBMS) such as MySQL, PostgreSQL, or SQLite.
